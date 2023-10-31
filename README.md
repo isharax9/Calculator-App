@@ -28,13 +28,17 @@ Simply launch the application, and you can start performing various mathematical
 
 If you want to contribute to this project, please follow the standard GitHub fork and pull request workflow.
 
+## Contact
+
+If you have any questions or feedback, feel free to contact me at [isharax9@gmail.com](mailto:isharax9@gmail.com).
+
+## Give a Star ⭐
+
+Your support and feedback are highly valued, so if you find this project useful, consider giving it a star ⭐️. I appreciate your interest in my work.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me at [my Email](mailto:isharax9@gmail.com).
 
 ---
 
